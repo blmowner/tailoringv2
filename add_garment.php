@@ -110,7 +110,7 @@
 
       <div class='col-md-4'>
          <div class='form-group'>
-            <a href='download.php'>
+            <a href="downloads/seluar.docx" download="seluar">
                <button class='btn btn-primary'>
                Muat Turun Langkah (Lelaki)
                </button>
