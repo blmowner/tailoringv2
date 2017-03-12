@@ -17,7 +17,7 @@
       exit;
       
       // for pdf
-  	  $file = 'downloads/seluar.pdf';
+  	 /* $file = 'downloads/seluar.pdf';
   	  header('Content-Description: File Transfer');
   	  header("Content-Type: application/pdf");
   	  header('Content-Disposition: attachment; filename='.  basename($file));
@@ -26,7 +26,7 @@
   	  header('Pragma: public');
   	  header('Content-Length: ' . filesize($file));
   	  readfile($file);
-      exit;
+      exit;*/
    ?>
 </head>
 </html>
